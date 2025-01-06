@@ -9,9 +9,12 @@
 }
 
 .links {
+    display: flex;
+    gap: 16px;
     align-items: center;
     margin-left: auto;
-    gap: 16px;
+    justify-content: center;
+    font-size: 30px;
 }
 
 .links a {
